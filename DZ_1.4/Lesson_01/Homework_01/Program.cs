@@ -34,7 +34,7 @@ namespace Homework_01
             // Уровень сложности: просто
             // Задание 1. Переделать программу так, чтобы до первой волны увольнени в отделе было не более 20 сотрудников
 
-            Repository repository = new Repository(30);
+            Repository repository = new Repository(20);
             repository.Print("База данных до увольнения сотрудников");
 
             repository.DeleteWorker(10);
