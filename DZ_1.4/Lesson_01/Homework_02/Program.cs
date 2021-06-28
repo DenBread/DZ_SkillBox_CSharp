@@ -6,7 +6,16 @@ namespace Homework_02
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Print("Добро пожаловать в записную книжку!");
+            Worker worker = new Worker();
+
+            Console.Read();
+        }
+
+        static void Print(string text)
+        {
+            Console.WriteLine(text);
         }
     }
+
 }

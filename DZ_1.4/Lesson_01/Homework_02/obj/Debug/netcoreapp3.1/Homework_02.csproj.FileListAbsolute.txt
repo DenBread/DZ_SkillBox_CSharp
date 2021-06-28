@@ -1,0 +1,13 @@
+C:\Users\Den\Dropbox\Мой ПК (Computer)\Documents\GitHub\DZ_SkillBox_CSharp\DZ_1.4\Lesson_01\Homework_02\bin\Debug\netcoreapp3.1\Homework_02.exe
+C:\Users\Den\Dropbox\Мой ПК (Computer)\Documents\GitHub\DZ_SkillBox_CSharp\DZ_1.4\Lesson_01\Homework_02\bin\Debug\netcoreapp3.1\Homework_02.deps.json
+C:\Users\Den\Dropbox\Мой ПК (Computer)\Documents\GitHub\DZ_SkillBox_CSharp\DZ_1.4\Lesson_01\Homework_02\bin\Debug\netcoreapp3.1\Homework_02.runtimeconfig.json
+C:\Users\Den\Dropbox\Мой ПК (Computer)\Documents\GitHub\DZ_SkillBox_CSharp\DZ_1.4\Lesson_01\Homework_02\bin\Debug\netcoreapp3.1\Homework_02.runtimeconfig.dev.json
+C:\Users\Den\Dropbox\Мой ПК (Computer)\Documents\GitHub\DZ_SkillBox_CSharp\DZ_1.4\Lesson_01\Homework_02\bin\Debug\netcoreapp3.1\Homework_02.dll
+C:\Users\Den\Dropbox\Мой ПК (Computer)\Documents\GitHub\DZ_SkillBox_CSharp\DZ_1.4\Lesson_01\Homework_02\bin\Debug\netcoreapp3.1\Homework_02.pdb
+C:\Users\Den\Dropbox\Мой ПК (Computer)\Documents\GitHub\DZ_SkillBox_CSharp\DZ_1.4\Lesson_01\Homework_02\obj\Debug\netcoreapp3.1\Homework_02.csprojAssemblyReference.cache
+C:\Users\Den\Dropbox\Мой ПК (Computer)\Documents\GitHub\DZ_SkillBox_CSharp\DZ_1.4\Lesson_01\Homework_02\obj\Debug\netcoreapp3.1\Homework_02.AssemblyInfoInputs.cache
+C:\Users\Den\Dropbox\Мой ПК (Computer)\Documents\GitHub\DZ_SkillBox_CSharp\DZ_1.4\Lesson_01\Homework_02\obj\Debug\netcoreapp3.1\Homework_02.AssemblyInfo.cs
+C:\Users\Den\Dropbox\Мой ПК (Computer)\Documents\GitHub\DZ_SkillBox_CSharp\DZ_1.4\Lesson_01\Homework_02\obj\Debug\netcoreapp3.1\Homework_02.csproj.CoreCompileInputs.cache
+C:\Users\Den\Dropbox\Мой ПК (Computer)\Documents\GitHub\DZ_SkillBox_CSharp\DZ_1.4\Lesson_01\Homework_02\obj\Debug\netcoreapp3.1\Homework_02.dll
+C:\Users\Den\Dropbox\Мой ПК (Computer)\Documents\GitHub\DZ_SkillBox_CSharp\DZ_1.4\Lesson_01\Homework_02\obj\Debug\netcoreapp3.1\Homework_02.pdb
+C:\Users\Den\Dropbox\Мой ПК (Computer)\Documents\GitHub\DZ_SkillBox_CSharp\DZ_1.4\Lesson_01\Homework_02\obj\Debug\netcoreapp3.1\Homework_02.genruntimeconfig.cache
