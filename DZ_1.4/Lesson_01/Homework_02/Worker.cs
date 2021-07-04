@@ -39,8 +39,90 @@ namespace Homework_02
             Console.Write("Как вас зовут: ");
             _name = Console.ReadLine();
 
-            Console.Write("Сколько вам лет: ");
-            _age = Convert.ToInt32(Console.ReadLine());
+            
+            while (true) // я понимаю, что тут будет много whil, но я не понимаю как  мне это исправить. Мне нужна ваша помощь
+            {
+                Console.Write("Сколько вам лет: ");
+
+                if (int.TryParse(Console.ReadLine(), out _age)) // проверяем, являеься ли это числом. Внизу повторяющие экземпляры
+                {
+                    //Console.WriteLine("Все корректо");
+                    break;
+                }
+                else
+                {
+                    Console.WriteLine("Ты ввел не корректо данные. Повтори еще раз...");
+
+                }
+            }
+
+            
+            while (true)
+            {
+                Console.Write("Как у вас рост: ");
+
+                if (float.TryParse(Console.ReadLine(), out _height))
+                {
+                    //Console.WriteLine("Все корректо");
+                    break;
+                }
+                else
+                {
+                    Console.WriteLine("Ты ввел не корректо данные. Повтори еще раз...");
+
+                }
+            }
+
+            
+            while (true)
+            {
+                Console.Write("Сколько баллов по русскому языку: ");
+
+                if (int.TryParse(Console.ReadLine(), out _pointsRussianLanguage))
+                {
+                    //Console.WriteLine("Все корректо");
+                    break;
+                }
+                else
+                {
+                    Console.WriteLine("Ты ввел не корректо данные. Повтори еще раз...");
+
+                }
+            }
+
+            
+            while (true)
+            {
+                Console.Write("Сколько баллов по истории: ");
+
+                if (int.TryParse(Console.ReadLine(), out _pointsHistory))
+                {
+                    //Console.WriteLine("Все корректо");
+                    break;
+                }
+                else
+                {
+                    Console.WriteLine("Ты ввел не корректо данные. Повтори еще раз...");
+
+                }
+            }
+
+            
+            while (true)
+            {
+                Console.Write("Сколько баллов по математике: ");
+
+                if (int.TryParse(Console.ReadLine(), out _pointsMath))
+                {
+                    //Console.WriteLine("Все корректо");
+                    break;
+                }
+                else
+                {
+                    Console.WriteLine("Ты ввел не корректо данные. Повтори еще раз...");
+
+                }
+            }
         }
 
         public void ShowInfoWorker()
